@@ -1,2 +1,2 @@
 # Altium Libraries
-Integrated Libraries for various boards used throughout the school - use at your own risk
+Extra Altium stuff such as Schematic Templates which might be of use
